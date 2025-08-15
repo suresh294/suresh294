@@ -1,61 +1,70 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+Sureshkumar+A;Java+Developer+%7C+Full-Stack+Engineer;Building+Cool+Projects+With+Java+%26+Web+Tech;Lifelong+Learner+%26+Problem+Solver;Open+for+Work)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Sureshkumar A</h1>
+<h3 align="center">🚀 Passionate Java & Full Stack Developer | Building Scalable Web & Desktop Apps</h3>
 
-## Hi there 👋 It's me Sureshkumar A
-
-<img align="right" width="300" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-💻 **Java Developer | Full-Stack Engineer | Problem Solver**  
-🎓 **3rd Year B.Tech CSE @ MVIT (Graduating 2027)**  
-
-📍 India
-
-- 🔭 Here's my **[Portfolio](https://your-portfolio-link.com)**
-- 🌱 Currently mastering **Java, Spring Boot, React, and MySQL**
-- 🏗 Recent Projects:
-  - **Hotel Booking System** (Java + Swing + SQLite) → [Repo](https://github.com/suresh294/HotelBookingSystem-Java-S)
-  - **Advanced Chatting Application** (Java + Sockets + File Sharing) → [Repo](https://github.com/suresh294)
-- ⚡ Fun fact: I debug faster when there’s coffee ☕
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Java+Developer+💻;Full+Stack+Web+Developer+🌐;Problem+Solver+⚡;Lifelong+Learner+📚" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/suresh294) &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sureshkumar242006) &nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:suresharumugam020@gmail.com) &nbsp;&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=suresh294&color=blue)
+### 💡 About Me
+- 🎓 **B.Tech CSE** (MVIT, 2027 Batch)
+- 💻 Strong in **Java**, **Spring Boot**, **JavaFX**, and **Full Stack Development**
+- 🌱 Currently learning **React**, **Microservices**, and **Cloud Deployments**
+- 🏆 **SkillRack**, **HackerRank**, and **LeetCode** problem solver
+- 💬 Ask me about **Java**, **OOP**, **Database Design**, **API Development**
+- 📫 Reach me at **suresharumugam020@gmail.com**
+- ⚡ Fun fact: I believe good code is like a good joke — it needs no explanation.
 
 ---
 
-## 💻 Tech Stack
-**Languages**  
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />  &nbsp;&nbsp;&nbsp;      <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" /> &nbsp;&nbsp;&nbsp;
+### 🛠 Tech Stack
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**  
-<img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" /> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png" /> &nbsp;&nbsp;&nbsp;
+**Frameworks & Libraries:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🛠 IDEs & Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>  &nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://img.icons8.com/color/48/eclipse.png"/>  &nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://img.icons8.com/color/48/intellij-idea.png"/> &nbsp;&nbsp;&nbsp; <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
-
----
-
-## 📊 GitHub Stats
-![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh294&theme=tokyonight&show_icons=true&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh294&layout=compact&theme=tokyonight)
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
-[![Suresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suresh294&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suresh294&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh294&theme=tokyonight" alt="GitHub Streak" width="49%" />
+</p>
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  ![snake animation](https://raw.githubusercontent.com/suresh294/suresh294/output/github-contribution-grid-snake.svg)
+</p>
 
-✨ _“Write code that’s easy to read, and you’ll write code that’s easy to maintain.”_
+---
+
+### 🎯 Competitive Programming Profiles
+- **SkillRack:** [View Profile](http://www.skillrack.com/profile/470212/4b13fa26953966fdcb7d8858ccc303110bc079ad )  
+- **HackerRank:** [View Profile](https://www.hackerrank.com/suresharumugam020)  
+- **LeetCode:** [View Profile](#)  
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/suresh294" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
+  <a href="mailto:suresharumugam020@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
