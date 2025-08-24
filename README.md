@@ -47,12 +47,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suresh294&theme=tokyonight" alt="GitHub Streak" width="49%" />
 </p>
 
----
 
-### 🐍 Contribution Snake
-<p align="center">
-  ![snake animation](https://raw.githubusercontent.com/suresh294/suresh294/output/github-contribution-grid-snake.svg)
-</p>
+
 
 ---
 
