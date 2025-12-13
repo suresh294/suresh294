@@ -61,6 +61,6 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/suresh294" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
+  <a href="www.linkedin.com/in/sureshkumar242006" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
   <a href="mailto:suresharumugam020@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
