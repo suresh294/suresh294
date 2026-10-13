@@ -13,6 +13,7 @@
 - 🌱 Currently improving my skills in **Spring Boot**, backend development, and software engineering fundamentals
 - 🏆 **SkillRack**, **HackerRank**, and **LeetCode** problem solver
 - 💬 Ask me about **Java**, **OOP**, **Database Design**, **API Development**
+- 🌐 **Portfolio:** [sureshporfolio.netlify.app](https://sureshporfolio.netlify.app)
 - 📫 Reach me at **suresharumugam020@gmail.com**
 - ⚡ Fun fact: I believe good code is like a good joke — it needs no explanation.
 
@@ -48,6 +49,7 @@
 - **[Trustlance](https://github.com/suresh294/Trustlance)** — Prototype for AI-verified freelance escrow and on-chain reputation on Polygon Amoy testnet.
 - **[SureshEcom](https://github.com/suresh294/suresh-ecom)** — React storefront and Express API with Docker Compose support.
 - **[AI UI Generator](https://github.com/suresh294/ai-ui-generator)** — Multi-agent UI generation project with component validation and iteration history.
+- **[MRS Guest House](https://github.com/suresh294/guesthouse)** — Responsive Next.js hospitality landing page with room, gallery, and contact sections. [Website](https://mrs-guesthouse.vercel.app)
 
 ---
 
@@ -65,7 +67,6 @@
 ### 🎯 Competitive Programming Profiles
 - **SkillRack:** [View Profile](http://www.skillrack.com/profile/470212/4b13fa26953966fdcb7d8858ccc303110bc079ad )  
 - **HackerRank:** [View Profile](https://www.hackerrank.com/suresharumugam020)  
-- **LeetCode:** [View Profile](#)  
 
 ---
 
