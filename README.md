@@ -9,8 +9,8 @@
 
 ### 💡 About Me
 - 🎓 **B.Tech CSE** (MVIT, 2027 Batch)
-- 💻 Strong in **Java**, **Spring Boot**, **JavaFX**, and **Full Stack Development**
-- 🌱 Currently learning **React**, **Microservices**, and **Cloud Deployments**
+- 💻 Building projects with **Java**, **JavaScript**, and full-stack web technologies
+- 🌱 Currently improving my skills in **Spring Boot**, backend development, and software engineering fundamentals
 - 🏆 **SkillRack**, **HackerRank**, and **LeetCode** problem solver
 - 💬 Ask me about **Java**, **OOP**, **Database Design**, **API Development**
 - 📫 Reach me at **suresharumugam020@gmail.com**
@@ -41,6 +41,16 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- **[DevPulse AI](https://github.com/suresh294/DevplusAI)** — Engineering project health dashboard with signal tracking, JWT authentication, risk scoring, and risk history.
+- **[AccessCore](https://github.com/suresh294/accesscore-role-based-api)** — Role-based task management API using Node.js, Express, PostgreSQL, and JWT.
+- **[Trustlance](https://github.com/suresh294/Trustlance)** — Prototype for AI-verified freelance escrow and on-chain reputation on Polygon Amoy testnet.
+- **[SureshEcom](https://github.com/suresh294/suresh-ecom)** — React storefront and Express API with Docker Compose support.
+- **[AI UI Generator](https://github.com/suresh294/ai-ui-generator)** — Multi-agent UI generation project with component validation and iteration history.
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suresh294&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
@@ -61,6 +71,6 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/sureshkumar242006" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
+  <a href="https://linkedin.com/in/sureshaa" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
   <a href="mailto:suresharumugam020@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
